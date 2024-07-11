@@ -37,7 +37,7 @@
 
 <h3>💰 You can help me by Donating</h3>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/alkindivv) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alkindivv) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
