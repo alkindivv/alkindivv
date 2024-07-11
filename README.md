@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 # 💫 About Me:
 🔭 I’m currently working as a Freelance<br>🌱 I’m currently learning about Blockchain Technology, Web3 and DeFi<br>⚡ Fun fact > i'm a Law Graduated :D
