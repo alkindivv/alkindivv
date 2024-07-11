@@ -12,6 +12,7 @@
 <h3> 🌐 Socials </h3> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alkindivv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ALKindi999) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@partaikriptosejahtera) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@alkindivv) 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd)](https://linkedin.com/in/alkindivv)
 
 <h3> 💻 Tech Stack </h3>
 
