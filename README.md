@@ -1,6 +1,6 @@
 <h2> Hey there! I'm AL KINDI!. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-  <p align="center">
+  <p align="left">
     <a href="/docs/readme_fr.md">Français </a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
