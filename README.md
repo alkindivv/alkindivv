@@ -11,7 +11,7 @@
 
 <h3> 🌐 Socials </h3> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-alkindi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkindivv/)](https://www.linkedin.com/in/alkindivv/)
+[![Linkedin Badge](https://img.shields.io/badge/-AL-KINDI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkindivv/)](https://www.linkedin.com/in/alkindivv/)
 [![Reddit Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=reddit&logoColor=white&link=https://reddit.com/user/ALKindi999/)](https://reddit.com/user/ALKindi999)
 [![x Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=x&logoColor=white&link=https://www.x.com/c/alkindivv)](https://www.x.com/c/alkindivv)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
