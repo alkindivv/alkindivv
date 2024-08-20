@@ -25,6 +25,27 @@ const coffeeMood = {
   }
 };
 ```
+```javascript
+const coffeeMood = {
+  coffeeTaste: 'good',
+  moods: {
+    good: 'Boosted!',
+    bad: 'Badmood!'
+  },
+  experience: {
+    currentMood() {
+      if (this.coffeeTaste === 'good') {
+        return this.moods.good;
+      } else if (this.coffeeTaste === 'bad') {
+        return this.moods.bad;
+      }
+    },
+    description() {
+      return `Coffee taste: ${this.coffeeTaste}. ${this.currentMood()}`;
+    }
+  }
+};
+```
 
 
 <h3> 🌐 Socials </h3> 
