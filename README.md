@@ -6,22 +6,24 @@
 - 🤔 &nbsp; Exploring new technologies (blockchain,web3 & defi), quick hacks and making boring stuff
 - 🎓 &nbsp; Studying law & computer programming 
 ```javascript
-const coffeeExperience = {
-  coffeeQuality: 'perfectly brewed',  // or 'mediocre', 'bad'
-  moodMap: {
-    'perfectly brewed': 'boosted',
-    'mediocre': 'meh',
-    'bad': 'disappointed',
-  },
-  getMood() {
-    return this.moodMap[this.coffeeQuality] || 'unknown';
-  },
-  description: "Enjoying a cup of coffee that is perfectly brewed, which results in a boosted mood.",
-};
+const coffeeMood = {
+  coffeeTaste: 'good',
 
-// Usage
-console.log(`The coffee is ${coffeeExperience.coffeeQuality}, so the mood is ${coffeeExperience.getMood()}.`);
-console.log(coffeeExperience.description);
+  getMood() {
+    if (this.coffeeTaste === 'good') {
+      return 'Yay! My mood is boosted like I just won the lottery!';
+    } else if (this.coffeeTaste === 'bad') {
+      return 'Oh no! My mood is as flat as a pancake left out for a week.';
+    } else {
+      return 'Hmm, I’m unsure about this coffee... Mood unknown.';
+    }
+  },
+
+  describeExperience() {
+    const mood = this.getMood();
+    return `Coffee taste: ${this.coffeeTaste}. ${mood}`;
+  }
+};
 ```
 
 
