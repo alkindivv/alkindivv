@@ -1,17 +1,27 @@
 <h2> Hey there! I'm AL KINDI!. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; improving my programming skills 
 - 🤔 &nbsp; Exploring new technologies (blockchain,web3 & defi), quick hacks and making boring stuff
 - 🎓 &nbsp; Studying law & computer programming 
 ```javascript
-const drink = {
- if coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'
-  else
-mood = "bad"
+const coffeeExperience = {
+  coffeeQuality: 'perfectly brewed',  // or 'mediocre', 'bad'
+  moodMap: {
+    'perfectly brewed': 'boosted',
+    'mediocre': 'meh',
+    'bad': 'disappointed',
+  },
+  getMood() {
+    return this.moodMap[this.coffeeQuality] || 'unknown';
+  },
+  description: "Enjoying a cup of coffee that is perfectly brewed, which results in a boosted mood.",
+};
+
+// Usage
+console.log(`The coffee is ${coffeeExperience.coffeeQuality}, so the mood is ${coffeeExperience.getMood()}.`);
+console.log(coffeeExperience.description);
 ```
 
 
