@@ -4,27 +4,8 @@
 
 - 🔭 &nbsp; improving my programming skills 
 - 🤔 &nbsp; Exploring new technologies (blockchain,web3 & defi), quick hacks and making boring stuff
-- 🎓 &nbsp; Studying law & computer programming 
-```javascript
-const coffeeMood = {
-  coffeeTaste: 'good',
-
-  getMood() {
-    if (this.coffeeTaste === 'good') {
-      return 'Yay! My mood is boosted like I just won the lottery!';
-    } else if (this.coffeeTaste === 'bad') {
-      return 'Oh no! My mood is as flat as a pancake left out for a week.';
-    } else {
-      return 'Hmm, I’m unsure about this coffee... Mood unknown.';
-    }
-  },
-
-  describeExperience() {
-    const mood = this.getMood();
-    return `Coffee taste: ${this.coffeeTaste}. ${mood}`;
-  }
-};
-```
+- 🎓 &nbsp; Studying law & computer programming
+  
 ```javascript
 const coffeeMood = {
   coffeeTaste: 'good',
@@ -34,16 +15,19 @@ const coffeeMood = {
   },
   experience: {
     currentMood() {
-      if (this.coffeeTaste === 'good') {
-        return this.moods.good;
-      } else if (this.coffeeTaste === 'bad') {
-        return this.moods.bad;
+      if (this.coffeeTaste === 'good')
+      {
+          return this.moods.good;
+      }
+          else if (this.coffeeTaste === 'bad')
+      {
+          return this.moods.bad;
       }
     },
-    description() {
-      return `Coffee taste: ${this.coffeeTaste}. ${this.currentMood()}`;
+    description()
+    {
+        return `Coffee taste: ${this.coffeeTaste}. ${this.currentMood()}`;
     }
-  }
 };
 ```
 
