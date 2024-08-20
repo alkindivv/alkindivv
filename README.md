@@ -7,7 +7,13 @@
 - 🔭 &nbsp; improving my programming skills 
 - 🤔 &nbsp; Exploring new technologies (blockchain,web3 & defi), quick hacks and making boring stuff
 - 🎓 &nbsp; Studying law & computer programming 
-- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
+```javascript
+const drink = {
+ if coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'
+  else
+mood = "bad"
+```
+
 
 <h3> 🌐 Socials </h3> 
 
