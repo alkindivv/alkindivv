@@ -7,43 +7,26 @@
 - 🎓 &nbsp; Studying law & computer programming
   
 ```javascript
-    Name (RZKY, Package (0x03)
-    {
-        "Fiverr https://www.fiverr.com/share/Q60XRP", 
-        "Facebook https:https://web.facebook.com/rizkihackintoshdotcom/", 
-        "Patched By RZKYL (alkindivv)"
-    })
-    Scope (_SB.PCI0)
-    {
-        If (_OSI ("Darwin"))
-        {
-            Name (HDAS._STA, Zero)  // _STA: Status
-            Device (HDEF)
-            {
-                Name (_ADR, 0x001F0003)  // _ADR: Address
-                Method (_DSM, 4, NotSerialized)  // _DSM: Device-Specific Method
-                {
-                    If (LEqual (Arg2, Zero))
-                    {
-                        Return (Buffer (One)
-                        {
-                             0x03                                           
-                        })
-                    }
+Method (COFM, 1, NotSerialized)
+{
+    Store (Arg0, Local0)
 
-                    Return (Package (0x0C)
-                    {
-                        "name", 
-                        Buffer (0x05)
-                        {
-                            "HDEF"
-                        },
-                    }
-                }
-            }
-        }
+    If (Local0 == 1)                      
+    {
+        Store (0x01, \_SB.PCI0.LPCB.EC0.MOOD)    
+        \_SB.PCI0.LPCB.EC0.ITLB ()        
+        \_SB.PCI0.LPCB.EC0.RPPC (One)   
+        \_SB.PCI0.LPCB.EC0.LOG ("Mood Boosted!") 
     }
-})
+    Else                                  
+    {
+        Store (0x02, \_SB.PCI0.LPCB.EC0.MOOD)    
+        \_SB.PCI0.LPCB.EC0.ITLB ()         
+        \_SB.PCI0.LPCB.EC0.RPPC (Zero)     
+        \_SB.PCI0.LPCB.EC0.LOG ("Bad Mood!") 
+    }
+    Return (Local0)
+}
 
 ```
 
