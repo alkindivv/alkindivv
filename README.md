@@ -13,15 +13,13 @@ Method (COFM, 1, NotSerialized)
 
     If (Local0 == 1)                      
     {
-        Store (0x01, \_SB.PCI0.LPCB.EC0.MOOD)    
-        \_SB.PCI0.LPCB.EC0.ITLB ()        
+        Store (0x01, MOOD)         
         \_SB.PCI0.LPCB.EC0.RPPC (One)   
         \_SB.PCI0.LPCB.EC0.LOG ("Mood Boosted!") 
     }
     Else                                  
     {
-        Store (0x02, \_SB.PCI0.LPCB.EC0.MOOD)    
-        \_SB.PCI0.LPCB.EC0.ITLB ()         
+        Store (0x02, MOOD)          
         \_SB.PCI0.LPCB.EC0.RPPC (Zero)     
         \_SB.PCI0.LPCB.EC0.LOG ("Bad Mood!") 
     }
