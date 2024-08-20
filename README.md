@@ -7,28 +7,44 @@
 - 🎓 &nbsp; Studying law & computer programming
   
 ```javascript
-const coffeeMood = {
-  coffeeTaste: 'good',
-  moods: {
-    good: 'Boosted!',
-    bad: 'Badmood!'
-  },
-  experience: {
-    currentMood() {
-      if (this.coffeeTaste === 'good')
-      {
-          return this.moods.good;
-      }
-          else if (this.coffeeTaste === 'bad')
-      {
-          return this.moods.bad;
-      }
-    },
-    description()
+    Name (RZKY, Package (0x03)
     {
-        return `Coffee taste: ${this.coffeeTaste}. ${this.currentMood()}`;
+        "Fiverr https://www.fiverr.com/share/Q60XRP", 
+        "Facebook https:https://web.facebook.com/rizkihackintoshdotcom/", 
+        "Patched By RZKYL (alkindivv)"
+    })
+    Scope (_SB.PCI0)
+    {
+        If (_OSI ("Darwin"))
+        {
+            Name (HDAS._STA, Zero)  // _STA: Status
+            Device (HDEF)
+            {
+                Name (_ADR, 0x001F0003)  // _ADR: Address
+                Method (_DSM, 4, NotSerialized)  // _DSM: Device-Specific Method
+                {
+                    If (LEqual (Arg2, Zero))
+                    {
+                        Return (Buffer (One)
+                        {
+                             0x03                                           
+                        })
+                    }
+
+                    Return (Package (0x0C)
+                    {
+                        "name", 
+                        Buffer (0x05)
+                        {
+                            "HDEF"
+                        },
+                    }
+                }
+            }
+        }
     }
-};
+})
+
 ```
 
 
