@@ -8,11 +8,11 @@
 - - ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
   
 ```javascript
-DefinitionBlock ("ALKINDI", "GITHUB", 0x00000000)
+DefinitionBlock ("ALKINDI", "GITHUB", "2", "SSDT", 0x00000000)
 {
-    External (_SB_.PCI0.CFFE., MethodObj)    
+    External (COFFE., MethodObj)    
 
-    Method (CFFE, 1, NotSerialized)
+    Method (COFFE, 1, NotSerialized)
     {
         Store (Arg0, Local0)
 
