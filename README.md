@@ -8,7 +8,7 @@
 - - ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
   
 
-```bash
+```javascript
 While True:
 coffee = 'coffee situation.
 if coffee == ' empty
