@@ -7,30 +7,20 @@
 - 🎓 &nbsp; Studying law & computer programming
 - - ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
   
-```javascript
-DefinitionBlock ("ALKINDI", "GITHUB", "2", "SSDT", 0x00000000)
-{
-    External (COFFE., MethodObj)    
 
-    Method (COFFE, 1, NotSerialized)
-    {
-        Store (Arg0, Local0)
-
-        If (Local0 == 1)                      
-        {
-            Store (0x01, MOOD)         
-            \_SB.PCI0.LPCB.EC0.RPPC (One)   
-            \_SB.PCI0.LPCB.EC0.LOG ("boosted!") 
-        }
-        Else                                  
-        {
-            Store (0x02, MOOD)          
-            \_SB.PCI0.LPCB.EC0.RPPC (Zero)     
-            \_SB.PCI0.LPCB.EC0.LOG ("bad mood!") 
-        }
-        Return (Local0)
-    }
-}
+```bash
+While True:
+coffee = 'coffee situation.
+if coffee == ' empty
+print('fill)
+break
+elif coffee == "full':
+print( 'drink')
+break
+else:
+print( 'it's ok')
+pass
+Print(' so proceed... ☕️)
 ```
 
 
