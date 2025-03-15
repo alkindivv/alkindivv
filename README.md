@@ -66,6 +66,8 @@
   </div>
 </div>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" />
+
 <!-- Coffee Code Section -->
 <details>
   <summary><b>☕ Kode Kopi Saya</b></summary>
