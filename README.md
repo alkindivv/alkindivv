@@ -85,18 +85,74 @@
   </h2>
 </div>
 
-<!-- ANIMATED STATS CARDS -->
+<!-- ANIMATED STATS DASHBOARD -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=tokyonight" width="100%" alt="GitHub Stats Card"/>
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&card_width=400">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=000000&bg_color=F6F8FA&include_all_commits=true&count_private=true&card_width=400">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&bg_color=0D1117&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
+    </picture>
+  </a>
 </div>
 
+<!-- LANGUAGE STATS & CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&ring_color=6495ED&title_color=6495ED&icon_color=6495ED" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&theme=tokyonight&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED" width="49%" alt="GitHub Streak"/>
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=000000&bg_color=F6F8FA&langs_count=8&hide=html,css">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css" alt="Top Languages">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alkindivv&theme=github_dark&utcOffset=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alkindivv&theme=github&utcOffset=8">
+      <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alkindivv&theme=github_dark&utcOffset=8" alt="Productive Time">
+    </picture>
+  </a>
 </div>
 
+<!-- CONTRIBUTION CALENDAR & ACTIVITY -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alkindivv&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="GitHub Trophy" />
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark" alt="GitHub Contribution Calendar">
+    </picture>
+  </a>
+</div>
+
+<!-- GITHUB TROPHIES WITH 3D EFFECT -->
+<div align="center">
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=alkindivv&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=alkindivv&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15">
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alkindivv&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies">
+    </picture>
+  </a>
+</div>
+
+<!-- METRICS INSIGHTS WITH ADVANCED VISUALIZATION -->
+<div align="center">
+  <details>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; color: #6495ED; margin: 20px 0;">📊 Detailed GitHub Metrics</summary>
+    <div style="background: linear-gradient(145deg, #1e2a4a, #0d1117); padding: 20px; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-top: 10px;">
+      <a href="https://github.com/alkindivv">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/alkindivv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta">
+          <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/alkindivv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta">
+          <img width="70%" src="https://metrics.lecoq.io/alkindivv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta" alt="Detailed GitHub Metrics">
+        </picture>
+      </a>
+    </div>
+  </details>
 </div>
 
 <!-- TECH STACK SECTION WITH MODERN DESIGN -->
