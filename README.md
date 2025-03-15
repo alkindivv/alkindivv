@@ -81,8 +81,35 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="35" />
-    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">Aktivitas GitHub</span>
+    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">GitHub Analytics</span>
   </h2>
+</div>
+
+<!-- ELEGANT ACTIVITY GRAPH -->
+<div align="center">
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alkindivv&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=6495ED&point=FFFFFF&color=FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alkindivv&theme=minimal&hide_border=true&area=true&bg_color=F6F8FA&line=6495ED&point=6495ED&color=000000">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alkindivv&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=6495ED&point=FFFFFF&color=FFFFFF" alt="GitHub Activity Graph">
+    </picture>
+  </a>
+</div>
+
+<!-- SIMPLIFIED STATS DASHBOARD -->
+<div align="center">
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=000000&bg_color=F6F8FA&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28" alt="GitHub Stats">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
+    </picture>
+  </a>
 </div>
 
 <!-- TECH STACK SECTION WITH MODERN DESIGN -->
@@ -93,36 +120,36 @@
   </h2>
 </div>
 
-<!-- TECH STACK WITH ANIMATED ICONS -->
+<!-- TECH STACK WITH MODERN BADGES -->
 <div align="center">
   <h3>Languages</h3>
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
   </p>
 
   <h3>Frameworks & Libraries</h3>
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/HARDHAT-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/TRUFFLE-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/WEB3.JS-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/ETHERS.JS-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js" /></a>
   </p>
 
   <h3>Blockchain & Tools</h3>
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/SOLANA-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/POLYGON-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" /></a>
     <a href="#"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   </p>
 </div>
 
@@ -274,45 +301,6 @@ console.log(`Current state: ${JSON.stringify(result, null, 2)}`);
 
   </div>
 </details>
-
-<!-- GITHUB STATS WITH MODERN CARDS -->
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" />
-    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">GitHub Analytics</span>
-  </h2>
-</div>
-
-<!-- ELEGANT STATS DASHBOARD -->
-<div align="center">
-  <a href="https://github.com/alkindivv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=000000&bg_color=F6F8FA&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28" alt="GitHub Stats">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
-    </picture>
-  </a>
-</div>
-
-<!-- CONTRIBUTION GRAPH - SIMPLIFIED & ELEGANT -->
-<div align="center">
-  <a href="https://github.com/alkindivv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark" alt="GitHub Contribution Calendar">
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <img alt="Al Kindi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alkindivv&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=6495ED&point=FFFFFF&color=FFFFFF" width="100%" />
-</div>
 
 <!-- SUPPORT SECTION WITH ANIMATED BUTTONS -->
 <div align="center">
