@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header with Particles.js Effect -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face.png" alt="Angry Face" width="25" height="25" />
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=Halo!+Saya+AL+KINDI+%F0%9F%91%8B;Blockchain+%26+Web3+Developer;Law+Student+%26+Programmer;Smart+Contract+Engineer" alt="Typing SVG" /></a>
 
@@ -39,41 +39,19 @@
 <div>
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-      <img
-
-src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-alt="Cat with Tears of Joy"
-width="25"
-height="25"
-/>
-
   <div align="left" style="margin-left: 20px;">
     <p style="font-size: 16px; line-height: 1.6;">
       <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"> Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
     </p>
 
-    <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
-    </p>
 
-    <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
-    </p>
-
-    <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
-    </p>
-
-    <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
-    </p>
-
-    <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
-    </p>
 
   </div>
 </div>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face.png" alt="Angry Face" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" alt="Zany Face" width="25" height="25" />
 
 <!-- Coffee Code Section -->
 <details>
