@@ -260,28 +260,27 @@
   <table>
     <tr>
       <td width="60%">
-        <h3 align="left">📜 Keahlian Hukum & Regulasi</h3>
+        <h3 align="left">📜 Pengalaman Hukum Profesional</h3>
         <ul align="left">
-          <li><b>Regulasi Kripto & Blockchain</b> - Analisis kerangka hukum untuk aset kripto di berbagai yurisdiksi</li>
-          <li><b>Smart Contract Legality</b> - Penelitian tentang kekuatan hukum dan penegakan smart contract</li>
-          <li><b>Perlindungan Konsumen Crypto</b> - Pengembangan kerangka untuk melindungi pengguna DeFi dan NFT</li>
-          <li><b>Kepatuhan KYC/AML</b> - Implementasi solusi kepatuhan untuk proyek blockchain</li>
-          <li><b>DAO Governance</b> - Struktur hukum untuk organisasi otonom terdesentralisasi</li>
-          <li><b>Hak Kekayaan Intelektual</b> - Perlindungan IP dalam ekosistem blockchain dan NFT</li>
+          <li><b>Trainee Associate di Law Firm RR & Partners</b> - Penyusunan dokumen hukum, penelitian hukum mendalam, dan analisis kasus untuk mendukung pengajuan pengadilan</li>
+          <li><b>Legal Intern di Beberapa Firma Hukum</b> - Pengalaman di Ariyanto & Rekan, Wahyu Priyanka & Partners, dan Erlan Nopri & Partners</li>
+          <li><b>Pendidikan Hukum</b> - Sarjana Hukum dari Universitas Islam Indonesia dengan predikat Cumlaude (GPA 3.59)</li>
+          <li><b>Sertifikasi Profesi</b> - Lulus Ujian Profesi Advokat (UPA) dari PERADI</li>
+          <li><b>Keahlian Hukum</b> - Legal Research & Writing, Legal Drafting & Negotiation, Legal Case Management & Documentation</li>
         </ul>
       </td>
       <td width="40%">
         <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-          <h3 align="center">Publikasi & Riset</h3>
+          <h3 align="center">Fokus Hukum Khusus</h3>
           <p align="center">
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="100" alt="Legal Research"/>
           </p>
           <p align="center">
-            Penelitian tentang implikasi hukum dari teknologi blockchain, smart contract, dan aset digital dalam sistem hukum Indonesia dan internasional
+            Spesialisasi dalam Corporate Mergers & Acquisitions, Capital Market, dan Regulasi Aset Kripto dengan pendekatan analitis dan pemecahan masalah
           </p>
           <div align="center">
-            <a href="#"><img src="https://img.shields.io/badge/Artikel_Hukum-6495ED?style=for-the-badge" alt="Artikel Hukum" /></a>
-            <a href="#"><img src="https://img.shields.io/badge/Jurnal_Ilmiah-2C3E50?style=for-the-badge" alt="Jurnal Ilmiah" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Corporate_Law-6495ED?style=for-the-badge" alt="Corporate Law" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Crypto_Regulation-2C3E50?style=for-the-badge" alt="Crypto Regulation" /></a>
           </div>
         </div>
       </td>
@@ -294,31 +293,31 @@
     <tr>
       <td width="50%">
         <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-          <h3 align="center">Legal Smart Contracts</h3>
+          <h3 align="center">Integrasi Hukum & Blockchain</h3>
           <p align="center">
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="100" alt="Legal Smart Contracts"/>
           </p>
           <p align="center">
-            Pengembangan smart contract yang memenuhi persyaratan hukum dan dapat digunakan dalam konteks legal, termasuk perjanjian digital dan escrow
+            Menggabungkan keahlian hukum dan teknologi untuk mengembangkan solusi legal-tech yang inovatif, termasuk smart contract yang memenuhi persyaratan hukum dan kerangka regulasi untuk aset digital
           </p>
           <div align="center">
-            <a href="#"><img src="https://img.shields.io/badge/Ricardian_Contracts-3C3C3D?style=for-the-badge" alt="Ricardian Contracts" /></a>
-            <a href="#"><img src="https://img.shields.io/badge/Legal_Automation-6495ED?style=for-the-badge" alt="Legal Automation" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Legal_Tech-3C3C3D?style=for-the-badge" alt="Legal Tech" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Smart_Contracts-6495ED?style=for-the-badge" alt="Smart Contracts" /></a>
           </div>
         </div>
       </td>
       <td width="50%">
         <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-          <h3 align="center">Konsultasi Regulasi Crypto</h3>
+          <h3 align="center">Penelitian & Publikasi Hukum</h3>
           <p align="center">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" alt="Regulatory Consultation"/>
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" alt="Legal Research"/>
           </p>
           <p align="center">
-            Layanan konsultasi untuk startup blockchain dan proyek DeFi tentang kepatuhan regulasi, perizinan, dan mitigasi risiko hukum
+            Mengelola blog hukum pribadi dengan fokus pada analisis regulasi kripto, implikasi hukum teknologi blockchain, dan perkembangan terbaru dalam hukum teknologi di Indonesia
           </p>
           <div align="center">
-            <a href="#"><img src="https://img.shields.io/badge/Compliance-2C3E50?style=for-the-badge" alt="Compliance" /></a>
-            <a href="#"><img src="https://img.shields.io/badge/Risk_Management-6495ED?style=for-the-badge" alt="Risk Management" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Legal_Blog-2C3E50?style=for-the-badge" alt="Legal Blog" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Academic_Research-6495ED?style=for-the-badge" alt="Academic Research" /></a>
           </div>
         </div>
       </td>
