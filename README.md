@@ -43,23 +43,25 @@
       <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"> Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
     </p>
 
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
-      </li>
-      <li>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
-      </li>
-      <li>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
-      </li>
-      <li>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
-      </li>
-      <li>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Food%20&%20Drink/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
-      </li>
-    </ul>
+ <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
+    </p>
+
+    <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
+    </p>
+
+    <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
+    </p>
+
+    <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
+    </p>
+
+    <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20%26%20Drink/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
+    </p>
 
   </div>
 </div>
