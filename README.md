@@ -65,8 +65,8 @@
           <li>Memperdalam pengetahuan di bidang Corporate M&A dan Capital Market</li>
         </ul>
       </td>
-      <td width="40%">
-        <img src="https://media.giphy.com/media/SXlQ8sSsj8mP92T57A/giphy.gif" width="100%" alt="Law GIF" />
+     <td width="40%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
         <div align="center">
           <a href="https://github.com/alkindivv?tab=repositories">
             <img src="https://img.shields.io/badge/Lihat_Proyek_Saya-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="View My Projects" />
