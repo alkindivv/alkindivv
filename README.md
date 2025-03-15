@@ -77,40 +77,15 @@
   </table>
 </div>
 
-<!-- GITHUB STATS WITH MODERN CARDS -->
+<!-- ACTIVITY GRAPH WITH MODERN DESIGN -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" />
-    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">GitHub Analytics</span>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="35" />
+    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">Aktivitas GitHub</span>
   </h2>
 </div>
 
-<!-- ELEGANT STATS DASHBOARD -->
-<div align="center">
-  <a href="https://github.com/alkindivv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=000000&bg_color=F6F8FA&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28" alt="GitHub Stats">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
-    </picture>
-  </a>
-</div>
 
-<!-- CONTRIBUTION GRAPH - SIMPLIFIED & ELEGANT -->
-<div align="center">
-  <a href="https://github.com/alkindivv">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark" alt="GitHub Contribution Calendar">
-    </picture>
-  </a>
-</div>
 
 <!-- TECH STACK SECTION WITH MODERN DESIGN -->
 <div align="center">
@@ -302,12 +277,41 @@ console.log(`Current state: ${JSON.stringify(result, null, 2)}`);
   </div>
 </details>
 
-<!-- ACTIVITY GRAPH WITH MODERN DESIGN -->
+
+
+<!-- GITHUB STATS WITH MODERN CARDS -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="35" />
-    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">Aktivitas GitHub</span>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" />
+    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">GitHub Analytics</span>
   </h2>
+</div>
+
+<!-- ELEGANT STATS DASHBOARD -->
+<div align="center">
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=000000&bg_color=F6F8FA&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28" alt="GitHub Stats">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
+    </picture>
+  </a>
+</div>
+
+<!-- CONTRIBUTION GRAPH - SIMPLIFIED & ELEGANT -->
+<div align="center">
+  <a href="https://github.com/alkindivv">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=github_dark" alt="GitHub Contribution Calendar">
+    </picture>
+  </a>
 </div>
 
 <div align="center">
