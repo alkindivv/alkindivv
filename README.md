@@ -206,7 +206,7 @@
   </h2>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td width="50%">
@@ -282,7 +282,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- BLOCKCHAIN PROJECTS SECTION WITH MODERN CARDS -->
 <div align="center">
@@ -293,7 +293,7 @@
 </div>
 
 <!-- PROJECT CARDS WITH HOVER EFFECT -->
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td width="50%">
@@ -368,10 +368,10 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- LEGAL PUBLICATIONS & RESEARCH SECTION -->
-<div align="center">
+<!-- <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35" />
     <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">Publikasi & Riset Hukum</span>
@@ -449,7 +449,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- LEGAL TECH & BLOCKCHAIN LAW SECTION -->
 <div align="center">
