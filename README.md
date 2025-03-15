@@ -462,7 +462,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="40%">
         <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
           <h3 align="center">Pengalaman Hukum Profesional</h3>
           <p align="center">
@@ -471,15 +471,11 @@
           <p align="center">
             Pengalaman profesional di bidang hukum dengan fokus pada penelitian hukum, penyusunan dokumen, dan analisis kasus untuk mendukung praktik hukum
           </p>
-          <p align="left">
-            <b>Trainee Associate</b> - Penyusunan dokumen hukum dan analisis kasus<br>
-            <b>Legal Intern</b> - Pengalaman di beberapa firma hukum terkemuka<br>
-            <b>Pendidikan Hukum</b> - Sarjana Hukum dengan predikat Cumlaude (GPA 3.59)<br>
-            <b>Sertifikasi Profesi</b> - Lulus Ujian Profesi Advokat (UPA) dari PERADI
-          </p>
           <div align="center">
-            <a href="#"><img src="https://img.shields.io/badge/Legal_Research-6495ED?style=for-the-badge" alt="Legal Research" /></a>
-            <a href="#"><img src="https://img.shields.io/badge/Legal_Drafting-2C3E50?style=for-the-badge" alt="Legal Drafting" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Trainee_Associate-6495ED?style=for-the-badge" alt="Trainee Associate" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Legal_Intern-2C3E50?style=for-the-badge" alt="Legal Intern" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Sarjana_Hukum-4169E1?style=for-the-badge" alt="Sarjana Hukum" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/UPA_PERADI-3C3C3D?style=for-the-badge" alt="UPA PERADI" /></a>
           </div>
         </div>
       </td>
