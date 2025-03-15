@@ -286,7 +286,91 @@
   </table>
 </div>
 
+<!-- BLOCKCHAIN PROJECTS SECTION WITH MODERN CARDS -->
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
+    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">Blockchain Projects</span>
+  </h2>
+</div>
 
+<!-- PROJECT CARDS WITH HOVER EFFECT -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">Smart Contract Development</h3>
+          <p align="center">
+            <a href="https://github.com/alkindivv" target="_blank">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="100" alt="Smart Contract"/>
+            </a>
+          </p>
+          <p align="center">
+            Pengembangan smart contract untuk DeFi, NFT, dan aplikasi terdesentralisasi lainnya dengan fokus pada keamanan dan efisiensi gas
+          </p>
+          <p align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" /></a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">Web3 Integration</h3>
+          <p align="center">
+            <a href="https://github.com/alkindivv" target="_blank">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="100" alt="Web3"/>
+            </a>
+          </p>
+          <p align="center">
+            Integrasi Web3 dengan aplikasi frontend untuk interaksi dengan blockchain, termasuk wallet connection dan transaction handling
+          </p>
+          <p align="center">
+            <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" /></a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">DeFi Protocols</h3>
+          <p align="center">
+            <a href="https://github.com/alkindivv" target="_blank">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="100" alt="DeFi"/>
+            </a>
+          </p>
+          <p align="center">
+            Pengembangan dan audit protokol DeFi untuk lending, staking, dan trading dengan fokus pada keamanan dan optimasi
+          </p>
+          <p align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /></a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">NFT Marketplaces</h3>
+          <p align="center">
+            <a href="https://github.com/alkindivv" target="_blank">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="100" alt="NFT"/>
+            </a>
+          </p>
+          <p align="center">
+            Pembuatan marketplace NFT dengan fitur minting, listing, dan trading yang mendukung berbagai standar token
+          </p>
+          <p align="center">
+            <a href="#"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- LEGAL PUBLICATIONS & RESEARCH SECTION -->
 <div align="center">
@@ -308,7 +392,11 @@
           <p align="center">
             Publikasi artikel hukum tentang regulasi kripto, smart contract, dan implikasi hukum dari teknologi blockchain dalam sistem hukum Indonesia
           </p>
-      
+          <ul align="left">
+            <li>"Analisis Yuridis Terhadap Status Hukum Cryptocurrency di Indonesia"</li>
+            <li>"Tantangan Regulasi Smart Contract dalam Hukum Kontrak Indonesia"</li>
+            <li>"Perlindungan Konsumen dalam Transaksi Aset Kripto"</li>
+          </ul>
         </div>
       </td>
       <td width="50%">
@@ -320,7 +408,11 @@
           <p align="center">
             Pengelolaan blog hukum pribadi yang membahas perkembangan terbaru dalam regulasi teknologi, analisis kasus, dan tren hukum di Indonesia
           </p>
-   
+          <ul align="left">
+            <li>Analisis regulasi terbaru terkait aset kripto di Indonesia</li>
+            <li>Studi kasus pelanggaran hukum dalam industri blockchain</li>
+            <li>Panduan kepatuhan hukum untuk startup blockchain</li>
+          </ul>
         </div>
       </td>
     </tr>
@@ -334,7 +426,11 @@
           <p align="center">
             Penelitian akademis tentang aspek hukum dari teknologi blockchain, termasuk implikasi hukum, kerangka regulasi, dan studi komparatif
           </p>
-      
+          <ul align="left">
+            <li>Skripsi: "Implikasi Hukum Penggunaan Smart Contract dalam Transaksi Bisnis di Indonesia"</li>
+            <li>Penelitian tentang kerangka regulasi aset kripto di ASEAN</li>
+            <li>Studi komparatif regulasi DeFi di berbagai yurisdiksi</li>
+          </ul>
         </div>
       </td>
       <td width="50%">
@@ -346,7 +442,11 @@
           <p align="center">
             Pengembangan proyek legal tech yang menggabungkan keahlian hukum dan teknologi untuk menciptakan solusi inovatif bagi masalah hukum
           </p>
-     
+          <ul align="left">
+            <li>Sistem otomatisasi dokumen hukum berbasis AI</li>
+            <li>Platform analisis kepatuhan regulasi untuk proyek blockchain</li>
+            <li>Template smart contract yang memenuhi persyaratan hukum Indonesia</li>
+          </ul>
         </div>
       </td>
     </tr>
