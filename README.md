@@ -398,4 +398,3 @@ console.log(`Current state: ${JSON.stringify(result, null, 2)}`);
   <br>
   <sub>Jangan lupa untuk mencantumkan hak cipta jika Anda ingin menggunakan template ini :)</sub>
 </div>
-
