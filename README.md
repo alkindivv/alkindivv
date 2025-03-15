@@ -162,8 +162,6 @@
   </p>
 </div>
 
-
-
 <!-- LEGAL EXPERTISE SECTION -->
 <div align="center">
   <h2>
@@ -465,14 +463,25 @@
   <table>
     <tr>
       <td width="60%">
-        <h3 align="left">📜 Pengalaman Hukum Profesional</h3>
-        <ul align="left">
-          <li><b>Trainee Associate di Law Firm RR & Partners</b> - Penyusunan dokumen hukum, penelitian hukum mendalam, dan analisis kasus untuk mendukung pengajuan pengadilan</li>
-          <li><b>Legal Intern di Beberapa Firma Hukum</b> - Pengalaman di Ariyanto & Rekan, Wahyu Priyanka & Partners, dan Erlan Nopri & Partners</li>
-          <li><b>Pendidikan Hukum</b> - Sarjana Hukum dari Universitas Islam Indonesia dengan predikat Cumlaude (GPA 3.59)</li>
-          <li><b>Sertifikasi Profesi</b> - Lulus Ujian Profesi Advokat (UPA) dari PERADI</li>
-          <li><b>Keahlian Hukum</b> - Legal Research & Writing, Legal Drafting & Negotiation, Legal Case Management & Documentation</li>
-        </ul>
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">Pengalaman Hukum Profesional</h3>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="100" alt="Professional Experience"/>
+          </p>
+          <p align="center">
+            Pengalaman profesional di bidang hukum dengan fokus pada penelitian hukum, penyusunan dokumen, dan analisis kasus untuk mendukung praktik hukum
+          </p>
+          <p align="left">
+            <b>Trainee Associate</b> - Penyusunan dokumen hukum dan analisis kasus<br>
+            <b>Legal Intern</b> - Pengalaman di beberapa firma hukum terkemuka<br>
+            <b>Pendidikan Hukum</b> - Sarjana Hukum dengan predikat Cumlaude (GPA 3.59)<br>
+            <b>Sertifikasi Profesi</b> - Lulus Ujian Profesi Advokat (UPA) dari PERADI
+          </p>
+          <div align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Legal_Research-6495ED?style=for-the-badge" alt="Legal Research" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Legal_Drafting-2C3E50?style=for-the-badge" alt="Legal Drafting" /></a>
+          </div>
+        </div>
       </td>
       <td width="40%">
         <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
