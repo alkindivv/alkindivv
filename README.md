@@ -52,7 +52,7 @@
 
   <div align="left" style="margin-left: 20px; flex: 1;">
     <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" alt="Technologist" width="25" height="25" /> &nbsp; Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Technologist" width="25" height="25" /> &nbsp; Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
     </p>
 
     <p>
