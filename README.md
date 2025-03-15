@@ -110,13 +110,13 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
       </picture>
-<!--     </div>
+    </div>
     <div style="margin-top: 10px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css&card_width=850">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=000000&bg_color=F6F8FA&langs_count=8&hide=html,css&card_width=850">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css&card_width=850" alt="Top Languages">
-      </picture> -->
+      </picture>
     </div>
   </a>
 </div>
@@ -242,6 +242,84 @@
             <a href="#"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" /></a>
             <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
           </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- LEGAL TECH & BLOCKCHAIN LAW SECTION -->
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" width="35" />
+    <span style="color: #6495ED; border-bottom: 2px solid #6495ED; padding-bottom: 5px;">Legal Tech & Blockchain Law</span>
+  </h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <h3 align="left">📜 Keahlian Hukum & Regulasi</h3>
+        <ul align="left">
+          <li><b>Regulasi Kripto & Blockchain</b> - Analisis kerangka hukum untuk aset kripto di berbagai yurisdiksi</li>
+          <li><b>Smart Contract Legality</b> - Penelitian tentang kekuatan hukum dan penegakan smart contract</li>
+          <li><b>Perlindungan Konsumen Crypto</b> - Pengembangan kerangka untuk melindungi pengguna DeFi dan NFT</li>
+          <li><b>Kepatuhan KYC/AML</b> - Implementasi solusi kepatuhan untuk proyek blockchain</li>
+          <li><b>DAO Governance</b> - Struktur hukum untuk organisasi otonom terdesentralisasi</li>
+          <li><b>Hak Kekayaan Intelektual</b> - Perlindungan IP dalam ekosistem blockchain dan NFT</li>
+        </ul>
+      </td>
+      <td width="40%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">Publikasi & Riset</h3>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="100" alt="Legal Research"/>
+          </p>
+          <p align="center">
+            Penelitian tentang implikasi hukum dari teknologi blockchain, smart contract, dan aset digital dalam sistem hukum Indonesia dan internasional
+          </p>
+          <div align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Artikel_Hukum-6495ED?style=for-the-badge" alt="Artikel Hukum" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Jurnal_Ilmiah-2C3E50?style=for-the-badge" alt="Jurnal Ilmiah" /></a>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">Legal Smart Contracts</h3>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="100" alt="Legal Smart Contracts"/>
+          </p>
+          <p align="center">
+            Pengembangan smart contract yang memenuhi persyaratan hukum dan dapat digunakan dalam konteks legal, termasuk perjanjian digital dan escrow
+          </p>
+          <div align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Ricardian_Contracts-3C3C3D?style=for-the-badge" alt="Ricardian Contracts" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Legal_Automation-6495ED?style=for-the-badge" alt="Legal Automation" /></a>
+          </div>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1e2a4a, #0d1117); box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+          <h3 align="center">Konsultasi Regulasi Crypto</h3>
+          <p align="center">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" alt="Regulatory Consultation"/>
+          </p>
+          <p align="center">
+            Layanan konsultasi untuk startup blockchain dan proyek DeFi tentang kepatuhan regulasi, perizinan, dan mitigasi risiko hukum
+          </p>
+          <div align="center">
+            <a href="#"><img src="https://img.shields.io/badge/Compliance-2C3E50?style=for-the-badge" alt="Compliance" /></a>
+            <a href="#"><img src="https://img.shields.io/badge/Risk_Management-6495ED?style=for-the-badge" alt="Risk Management" /></a>
+          </div>
         </div>
       </td>
     </tr>
