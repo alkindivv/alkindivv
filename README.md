@@ -1,6 +1,7 @@
 <div align="center">
 
   <!-- Animated Header with Particles.js Effect -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face.png" alt="Angry Face" width="25" height="25" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=Halo!+Saya+AL+KINDI+%F0%9F%91%8B;Blockchain+%26+Web3+Developer;Law+Student+%26+Programmer;Smart+Contract+Engineer" alt="Typing SVG" /></a>
 
