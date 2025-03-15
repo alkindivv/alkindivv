@@ -33,46 +33,47 @@
   </h2>
 </div>
 
-<!-- 3D STYLE CARDS -->
+<!-- GITHUB STATS CARD -->
 <div align="center">
-  <a href="https://github.com/alkindivv">
-    <img src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/alkindivv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkindivv&theme=tokyonight" width="100%" alt="GitHub Stats Card"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alkindivv&theme=tokyonight" width="32%" alt="Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alkindivv&theme=tokyonight" width="32%" alt="Languages Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alkindivv&theme=tokyonight" width="32%" alt="Commit Languages Card"/>
 </div>
 
 <!-- ABOUT ME CONTENT WITH ANIMATED ICONS -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex;">
   <div style="flex: 1;">
     <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  </div>
 
-    <div align="left" style="margin-left: 20px;">
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" alt="Technologist" width="25" height="25" /> &nbsp; Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
-      </p>
+  <div align="left" style="margin-left: 20px; flex: 1;">
+    <p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" alt="Technologist" width="25" height="25" /> &nbsp; Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
+    </p>
 
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
-      </p>
+    <p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
+    </p>
 
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
-      </p>
+    <p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
+    </p>
 
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
-      </p>
+    <p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
+    </p>
 
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
-      </p>
+    <p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
+    </p>
 
-      <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20%26%20Drink/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
-      </p>
-    </div>
+    <p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20%26%20Drink/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
+    </p>
 
   </div>
 </div>
