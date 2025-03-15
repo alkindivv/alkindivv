@@ -148,10 +148,12 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/alkindivv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta">
           <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/alkindivv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta">
-          <img width="70%" src="https://metrics.lecoq.io/alkindivv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta" alt="Detailed GitHub Metrics">
+          <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=alkindivv&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=6495ED&point=FFFFFF&color=FFFFFF" width="100%" alt="Detailed GitHub Metrics">
         </picture>
+
       </a>
     </div>
+
   </details>
 </div>
 
@@ -396,3 +398,4 @@ console.log(`Current state: ${JSON.stringify(result, null, 2)}`);
   <br>
   <sub>Jangan lupa untuk mencantumkan hak cipta jika Anda ingin menggunakan template ini :)</sub>
 </div>
+
