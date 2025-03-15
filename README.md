@@ -36,31 +36,39 @@
 
 <!-- About Me Content with Animated GIF -->
 <div>
- <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+      <img
+
+src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+alt="Cat with Tears of Joy"
+width="25"
+height="25"
+/>
 
   <div align="left" style="margin-left: 20px;">
     <p style="font-size: 16px; line-height: 1.6;">
       <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"> Seorang <b>Blockchain Developer</b> dan <b>Mahasiswa Hukum</b> yang bersemangat.
     </p>
 
- <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
+    <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp; Meningkatkan keterampilan pemrograman saya setiap hari
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> &nbsp; Mengeksplorasi teknologi blockchain, web3 & DeFi
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> &nbsp; Mahasiswa hukum & pemrograman komputer
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> &nbsp; Membuat solusi inovatif untuk masalah sehari-hari
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20%26%20Drink/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> &nbsp; <code>coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'</code>
     </p>
 
   </div>
