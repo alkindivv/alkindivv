@@ -85,8 +85,6 @@
   </h2>
 </div>
 
-
-
 <!-- TECH STACK SECTION WITH MODERN DESIGN -->
 <div align="center">
   <h2>
@@ -276,8 +274,6 @@ console.log(`Current state: ${JSON.stringify(result, null, 2)}`);
 
   </div>
 </details>
-
-
 
 <!-- GITHUB STATS WITH MODERN CARDS -->
 <div align="center">
