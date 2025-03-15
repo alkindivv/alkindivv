@@ -1,7 +1,7 @@
 <!-- HEADER SECTION WITH 3D ANIMATION -->
 <div align="center">
   <a href="https://github.com/alkindivv">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200%C2%A7ion=header&text=AL%20KINDI&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Law%20Nerd%20%7C%20Techt%20Contract%20Geek&descAlignY=55&descSize=15" width="100%" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=AL%20KINDI&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Law%20Nerd%20%7C%20Tech%20Geek&descAlignY=55&descSize=15" width="100%" alt="Header"/>
   </a>
 </div>
 
