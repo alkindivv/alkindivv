@@ -54,7 +54,6 @@
           <li>📚 <b>Law Graduate</b> with a cumlaude predicate</li>
           <li>⚖️ <b>Junior Associate</b> in a few law firms</li>
           <li>📝 <b>Legal Writer</b> writing law articles </li>
-
         </ul>
         <h3 align="left">🚀 Current focus</h3>
         <ul align="left">
