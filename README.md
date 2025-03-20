@@ -49,20 +49,18 @@
   <table border="0">
     <tr>
       <td width="60%">
-        <h3 align="left">👨‍⚖️ Saya adalah...</h3>
+        <h3 align="left">👨‍⚖️ Hi! i'am..</h3>
         <ul align="left">
-          <li>📚 <b>Sarjana Hukum</b> dengan predikat Cumlaude dari Universitas Islam Indonesia</li>
-          <li>⚖️ <b>Junior Associate</b> dengan pengalaman di beberapa firma hukum terkemuka</li>
-          <li>📝 <b>Legal Researcher</b> dengan fokus pada regulasi aset kripto dan blockchain</li>
-          <li>🔗 <b>Blockchain Developer</b> yang mengintegrasikan keahlian hukum dan teknologi</li>
-          <li>🧠 <b>Legal Tech Specialist</b> yang mengembangkan solusi hukum berbasis teknologi</li>
-          <li>🌱 Selalu mengikuti perkembangan regulasi kripto dan teknologi blockchain</li>
+          <li>📚 <b>Law Graduate</b> with a cumlaude predicate</li>
+          <li>⚖️ <b>Junior Associate</b> in a few law firms</li>
+          <li>📝 <b>Legal Writer</b> writing law articles </li>
+
         </ul>
-        <h3 align="left">🚀 Fokus Saat Ini</h3>
+        <h3 align="left">🚀 Current focus</h3>
         <ul align="left">
-          <li>Menganalisis kerangka regulasi untuk aset kripto di Indonesia</li>
-          <li>Mengembangkan smart contract yang memenuhi persyaratan hukum</li>
-          <li>Memperdalam pengetahuan di bidang Corporate M&A dan Capital Market</li>
+          <li>analysist crypto asset regulation in Indonesia</li>
+          <li>Developed a mart contract that followed an Indonesian rules</li>
+          <li>Deepen my understanding in law, expecially in corporate M&A, bankruptcy and crypto asset regulation</li>
         </ul>
       </td>
      <td width="40%">
