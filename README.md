@@ -239,29 +239,6 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/alkindivv">
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&text_color=000000&bg_color=F6F8FA&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alkindivv&show_icons=true&hide_border=true&ring_color=6495ED&title_color=6495ED&icon_color=6495ED&bg_color=0D1117&include_all_commits=true&count_private=true&hide_rank=true&hide_title=false&line_height=28" alt="GitHub Stats">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=F6F8FA&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=000000&sideNums=000000&currStreakLabel=6495ED&sideLabels=6495ED&dates=000000">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkindivv&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6495ED&sideLabels=6495ED&dates=FFFFFF" alt="GitHub Streak">
-      </picture>
-    </div>
-    <div style="margin-top: 10px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css&card_width=850">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=000000&bg_color=F6F8FA&langs_count=8&hide=html,css&card_width=850">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkindivv&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0D1117&langs_count=8&hide=html,css&card_width=850" alt="Top Languages">
-      </picture>
-    </div>
-  </a>
-</div>
 
 <div align="center">
   <h2>
