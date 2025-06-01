@@ -46,14 +46,15 @@
         <h3 align="left">👨‍⚖️ Hello! I am...</h3>
         <ul align="left">
           <li>📚 <b>Bachelor of Laws (LL.B.)</b> with Cum Laude honors</li>
-          <li>⚖️ <b>Junior Associate</b> at various law firms</li>
+          <li>⚖️ <b>Junior Associate</b>
           <li>📝 <b>Legal Writer</b>, authoring legal articles and publications</li>
         </ul>
         <h3 align="left">🚀 Current Focus</h3>
         <ul align="left">
-          <li>Analyzing crypto asset regulations in Indonesia</li>
-          <li>Developing smart contracts compliant with Indonesian law</li>
-          <li>Deepening my understanding of law, particularly M&A, bankruptcy, and crypto asset regulation</li>
+          <li>Analyzing crypto asset regulations in Indonesia.</li>
+          <li>Developing legally-compliant smart contracts for the Indonesian jurisdiction.</li>
+          <li>Deepening expertise in M&A, bankruptcy law, and crypto regulation.</li>
+          <li>Exploring innovative Legal Tech solutions and Blockchain applications.</li>
         </ul>
       </td>
       <td width="40%" style="vertical-align: top; text-align: center;">
@@ -120,8 +121,7 @@
     <a href="#"><img src="https://img.shields.io/badge/CORPORATE_LAW-6495ED?style=for-the-badge" alt="Corporate Law" /></a>
     <a href="#"><img src="https://img.shields.io/badge/MERGERS_&_ACQUISITIONS-2C3E50?style=for-the-badge" alt="Mergers & Acquisitions" /></a>
     <a href="#"><img src="https://img.shields.io/badge/CAPITAL_MARKETS_LAW-4169E1?style=for-the-badge" alt="Capital Markets Law" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CRYPTO_REGULATIONS-3C3C3D?style=for-the-badge" alt="Crypto Regulations" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/BLOCKCHAIN_LAW-1E3A8A?style=for-the-badge" alt="Blockchain Law" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/CRYPTO_REGULATIONS-3C3C3D?style=for-the-badge" alt="Financial & Digital Technologies" /></a>
   </p>
 
   <h3>Legal Skills</h3>
@@ -133,13 +133,6 @@
     <a href="#"><img src="https://img.shields.io/badge/LEGAL_ADVISORY-1E3A8A?style=for-the-badge" alt="Legal Advisory" /></a>
   </p>
 
-  <h3>Legal Tech</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/SMART_LEGAL_CONTRACTS-6495ED?style=for-the-badge" alt="Smart Legal Contracts" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/REGULATORY_COMPLIANCE-2C3E50?style=for-the-badge" alt="Regulatory Compliance" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LEGAL_AUTOMATION-4169E1?style=for-the-badge" alt="Legal Automation" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/DIGITAL_EVIDENCE-3C3C3D?style=for-the-badge" alt="Digital Evidence" /></a>
-  </p>
 </div>
 
 <div align="center">
@@ -162,7 +155,7 @@
             <li><b>Trainee Associate</b> - RR & Partners Law Firm</li>
             <li><b>Legal Intern</b> - Prominent law firms</li>
             <li><b>Freelance Legal Consultant</b> - International Platforms</li>
-            <li><b>Education:</b> Bachelor of Laws (LL.B.), Cum Laude (GPA 3.59)</li>
+            <li><b>Education:</b> Bachelor of Laws (LL.B.), Cum Laude honors</li>
           </ul>
           <a href="#"><img src="https://img.shields.io/badge/View_Full_Details-6495ED?style=for-the-badge" alt="View Full Details Button" /></a>
         </div>
