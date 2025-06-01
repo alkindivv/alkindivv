@@ -51,9 +51,8 @@
         </ul>
         <h3 align="left">🚀 Current Focus</h3>
         <ul align="left">
+          <li>Deepening expertise in M&A, bankruptcy law, and crypto regulation.</li>
           <li>Analyzing crypto asset regulations in Indonesia.</li>
-          <li>Developing legally-compliant smart contracts for the Indonesian jurisdiction.</li>
-          <li>Deepening expertise in M&A, bankruptcy law, and crypto regulation.</li>
           <li>Exploring innovative Legal Tech solutions and Blockchain applications.</li>
         </ul>
       </td>
