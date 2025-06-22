@@ -9,9 +9,6 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/alkindivv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
   <a href="https://reddit.com/user/ALKindi999" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" alt="Reddit">
   </a>
